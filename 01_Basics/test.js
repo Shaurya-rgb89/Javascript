@@ -5,5 +5,8 @@ const password="123@ghgs"
 console.table([name,age,password])
 const null_var=null
 let und
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof password);
 console.log(typeof null_var);
 console.log(typeof und);
